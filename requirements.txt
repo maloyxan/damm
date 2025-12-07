@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+aiocryptopay
+pydantic
+python-dotenv
